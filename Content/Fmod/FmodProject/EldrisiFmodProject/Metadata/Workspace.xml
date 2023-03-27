@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{42ed888e-7e46-4c31-bd7d-adcfc654af0e}">
 		<property name="builtBanksOutputDirectory">
-			<value>C:/Users/david/OneDrive - Ensino Lusófona/ULP/programar/navmesh/Eldrisi/Content/Fmod</value>
+			<value>../../</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{296a7a15-5074-4417-af35-a32690d1aaef}</destination>
@@ -33,6 +33,7 @@
 		</relationship>
 		<relationship name="platforms">
 			<destination>{45425e2a-c7bc-4986-931b-dc9baa0def69}</destination>
+			<destination>{a0299f14-77f1-48a8-8546-db0ce16211a7}</destination>
 		</relationship>
 	</object>
 </objects>
