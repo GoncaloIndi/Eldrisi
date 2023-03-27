@@ -5,31 +5,31 @@
 			<value>C:/Users/david/OneDrive - Ensino Lusófona/ULP/programar/navmesh/Eldrisi/Content/Fmod</value>
 		</property>
 		<relationship name="masterEventFolder">
-			<destination>{444a850f-8258-4433-83aa-524348d8d009}</destination>
+			<destination>{296a7a15-5074-4417-af35-a32690d1aaef}</destination>
 		</relationship>
 		<relationship name="masterTagFolder">
-			<destination>{8d7c2b48-06af-4143-96ff-db62c986b8f7}</destination>
+			<destination>{60a4db46-7070-4e7d-9212-b21e4328c171}</destination>
 		</relationship>
 		<relationship name="masterEffectPresetFolder">
-			<destination>{c9b9bf33-72c8-47de-a140-227151681dba}</destination>
+			<destination>{0276ac90-5118-4f66-8771-d434d69c7a83}</destination>
 		</relationship>
 		<relationship name="masterParameterPresetFolder">
-			<destination>{10eb381c-988a-4fb2-9f04-718ac4b5bdeb}</destination>
+			<destination>{61eb0fd0-47e8-4f90-a8db-6921e9e37c5a}</destination>
 		</relationship>
 		<relationship name="masterBankFolder">
-			<destination>{ecc869b1-37d7-42a9-9a0f-de048824af37}</destination>
+			<destination>{0dc70aa2-3b1e-4598-85e6-8d42e6c59082}</destination>
 		</relationship>
 		<relationship name="masterSandboxFolder">
-			<destination>{05f58183-ab7d-46b2-8e30-8480c116a9f7}</destination>
+			<destination>{9ec020c8-f4ee-4897-8ebd-cdf0d339bcb6}</destination>
 		</relationship>
 		<relationship name="masterAssetFolder">
-			<destination>{aaa6ac46-3418-40ad-a354-6d043128563a}</destination>
+			<destination>{6c08ff19-97b8-4653-a45d-c7f9e8ed9081}</destination>
 		</relationship>
 		<relationship name="mixer">
-			<destination>{2f7539c3-b16d-4853-bf28-fa79b81ec3c4}</destination>
+			<destination>{7eb0a1cb-9068-4f53-86b2-f4f3ae703590}</destination>
 		</relationship>
 		<relationship name="profilerSessionFolder">
-			<destination>{9508a787-900e-49ef-a0e8-b07e659b4e3c}</destination>
+			<destination>{73c5ff71-4fad-439d-b31f-610d7fd5d5fa}</destination>
 		</relationship>
 		<relationship name="platforms">
 			<destination>{45425e2a-c7bc-4986-931b-dc9baa0def69}</destination>
