@@ -1,4 +1,4 @@
-// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2023.
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2022.
 
 #include "FMODStudioEditorModule.h"
 #include "FMODStudioModule.h"
@@ -521,12 +521,12 @@ void FFMODStudioEditorModule::ShowVersion()
 
 void FFMODStudioEditorModule::OpenIntegrationDocs()
 {
-    FPlatformProcess::LaunchFileInDefaultExternalApplication(TEXT("https://www.fmod.com/docs/unreal"));
+    FPlatformProcess::LaunchFileInDefaultExternalApplication(TEXT("https://fmod.com/resources/documentation-ue4"));
 }
 
 void FFMODStudioEditorModule::OpenAPIDocs()
 {
-    FPlatformProcess::LaunchFileInDefaultExternalApplication(TEXT("https://www.fmod.com/docs/api"));
+    FPlatformProcess::LaunchFileInDefaultExternalApplication(TEXT("https://fmod.com/resources/documentation-api"));
 }
 
 void FFMODStudioEditorModule::OpenVideoTutorials()

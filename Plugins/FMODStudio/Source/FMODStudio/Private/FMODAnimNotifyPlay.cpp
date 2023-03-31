@@ -7,8 +7,6 @@
 UFMODAnimNotifyPlay::UFMODAnimNotifyPlay()
     : Super()
 {
-    bFollow = false;
-    Event = nullptr;
 
 #if WITH_EDITORONLY_DATA
     NotifyColor = FColor(196, 142, 255, 255);

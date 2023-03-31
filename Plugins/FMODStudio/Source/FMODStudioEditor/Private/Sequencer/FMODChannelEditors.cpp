@@ -1,4 +1,4 @@
-// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2023.
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2022.
 
 #include "Sequencer/FMODChannelEditors.h"
 #include "ISequencerChannelInterface.h"
